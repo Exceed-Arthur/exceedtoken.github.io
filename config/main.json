@@ -42,7 +42,6 @@
     }
   ],
   "tokens": [
-    "addr":"0x87611ca3403a3878dfef0da2a786e209abfc1eff","name":"EUSD","decimals":8},
     {"addr":"0xa8f93faee440644f89059a2c88bdc9bf3be5e2ea","name":"CASH","decimals":18},
     {"addr":"0xea38eaa3c86c8f9b751533ba2e562deb9acded40","name":"FUEL","decimals":18}
     {"addr":"0xe469c4473af82217b30cf17b10bcdb6c8c796e75","name":"EXRN","decimals":0},
